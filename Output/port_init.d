@@ -1,0 +1,17 @@
+..\output\port_init.o: port_init.c
+..\output\port_init.o: port_init.h
+..\output\port_init.o: ..\CMSIS\stm32f10x.h
+..\output\port_init.o: ..\CMSIS\core_cm3.h
+..\output\port_init.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\port_init.o: ..\CMSIS\system_stm32f10x.h
+..\output\port_init.o: ..\USER\stm32f10x_conf.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_adc.h
+..\output\port_init.o: ..\CMSIS\stm32f10x.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_can.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_dma.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_exti.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_flash.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\port_init.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\port_init.o: ..\FWlib\inc\misc.h
